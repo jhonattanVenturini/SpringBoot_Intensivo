@@ -17,6 +17,7 @@ public class MegaUnaV2 {
 
     public static void apresentarInformacoes(){
         System.out.println("Nesse jogo você escolhe um número de 0 a 100, e se acertar ganha!");
+
     }
 
     public static void coletarnome(Scanner sc){
